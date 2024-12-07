@@ -48,7 +48,7 @@ export function Home() {
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   Summarizer is a powerful document summarization tool that uses advanced AI algorithms to quickly and
-                  accurately summarize long documents, saving you time and effort. Whether you're a researcher, student,
+                  accurately summarize long documents, saving you time and effort. Whether you&apos;re a researcher, student,
                   or professional, Summarizer can help you stay informed and focused.
                 </p>
               </div>
@@ -147,15 +147,14 @@ export function Home() {
                   <div className="grid gap-2">
                     <h3 className="text-xl font-bold">Olivia Martin</h3>
                     <p className="text-muted-foreground">
-                      "Summarizer has been a game-changer for my research. The summaries are accurate and concise, saving
-                      me hours of reading time."
+                      &quot;Summarizer has been a game-changer for my research. The summaries are accurate and concise, saving
+                      me hours of reading time.&quot;
                     </p>
                   </div>
                   <div className="grid gap-2">
                     <h3 className="text-xl font-bold">Michael Johnson</h3>
                     <p className="text-muted-foreground">
-                      "As a busy professional, I rely on Summarizer to keep me informed on the latest industry trends and
-                      developments. It&apos;s an essential tool in my workflow."
+                      &quot;As a busy professional, I rely on Summarizer to keep me informed on the latest industry trends and developments. It&apos;s an essential tool in my workflow.&quot;
                     </p>
                   </div>
                   <div className="grid gap-2">
