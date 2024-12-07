@@ -1,0 +1,86 @@
+[2024-12-06 12:24:24,664: INFO: server: Started server process [63536]]
+[2024-12-06 12:24:24,666: INFO: on: Waiting for application startup.]
+[2024-12-06 12:24:24,668: INFO: on: Application startup complete.]
+[2024-12-06 12:24:24,671: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2024-12-06 12:33:10,962: INFO: server: Shutting down]
+[2024-12-06 12:33:11,074: INFO: on: Waiting for application shutdown.]
+[2024-12-06 12:33:11,077: INFO: on: Application shutdown complete.]
+[2024-12-06 12:33:11,079: INFO: server: Finished server process [63536]]
+[2024-12-06 12:33:48,568: INFO: server: Started server process [72272]]
+[2024-12-06 12:33:48,570: INFO: on: Waiting for application startup.]
+[2024-12-06 12:33:48,571: INFO: on: Application startup complete.]
+[2024-12-06 12:34:34,425: INFO: server: Started server process [65700]]
+[2024-12-06 12:34:34,427: INFO: on: Waiting for application startup.]
+[2024-12-06 12:34:34,429: INFO: on: Application startup complete.]
+[2024-12-06 12:34:34,431: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2024-12-06 12:39:00,565: INFO: server: Shutting down]
+[2024-12-06 12:39:00,668: INFO: on: Waiting for application shutdown.]
+[2024-12-06 12:39:00,670: INFO: on: Application shutdown complete.]
+[2024-12-06 12:39:00,672: INFO: server: Finished server process [65700]]
+[2024-12-06 12:39:28,625: INFO: server: Started server process [19180]]
+[2024-12-06 12:39:28,627: INFO: on: Waiting for application startup.]
+[2024-12-06 12:39:28,629: INFO: on: Application startup complete.]
+[2024-12-06 12:39:28,630: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2024-12-06 12:40:19,004: INFO: server: Shutting down]
+[2024-12-06 12:40:19,112: INFO: server: Finished server process [19180]]
+[2024-12-06 12:40:19,213: ERROR: on: Traceback (most recent call last):
+  File "C:\Users\Priya\OneDrive\Desktop\MProject\python\venv\Lib\site-packages\starlette\routing.py", line 638, in lifespan
+    await receive()
+  File "C:\Users\Priya\OneDrive\Desktop\MProject\python\venv\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\asyncio\queues.py", line 158, in get
+    await getter
+asyncio.exceptions.CancelledError
+]
+[2024-12-06 12:40:38,876: INFO: server: Started server process [33124]]
+[2024-12-06 12:40:38,879: INFO: on: Waiting for application startup.]
+[2024-12-06 12:40:38,880: INFO: on: Application startup complete.]
+[2024-12-06 12:40:38,883: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2024-12-06 12:51:55,898: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-06 12:51:55,928: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-06 12:51:55,934: INFO: common: created directory at: artifacts]
+[2024-12-06 12:51:55,936: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-12-06 12:57:05,200: INFO: server: Shutting down]
+[2024-12-06 12:57:05,345: INFO: server: Finished server process [33124]]
+[2024-12-06 12:57:05,483: ERROR: on: Traceback (most recent call last):
+  File "C:\Users\Priya\OneDrive\Desktop\MProject\python\venv\Lib\site-packages\starlette\routing.py", line 638, in lifespan
+    await receive()
+  File "C:\Users\Priya\OneDrive\Desktop\MProject\python\venv\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\asyncio\queues.py", line 158, in get
+    await getter
+asyncio.exceptions.CancelledError
+]
+[2024-12-06 12:57:53,452: INFO: server: Started server process [53724]]
+[2024-12-06 12:57:53,454: INFO: on: Waiting for application startup.]
+[2024-12-06 12:57:53,456: INFO: on: Application startup complete.]
+[2024-12-06 12:57:53,459: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2024-12-06 12:58:29,437: INFO: server: Shutting down]
+[2024-12-06 12:58:29,545: INFO: on: Waiting for application shutdown.]
+[2024-12-06 12:58:29,548: INFO: on: Application shutdown complete.]
+[2024-12-06 12:58:29,550: INFO: server: Finished server process [53724]]
+[2024-12-06 12:59:14,028: INFO: server: Started server process [60016]]
+[2024-12-06 12:59:14,030: INFO: on: Waiting for application startup.]
+[2024-12-06 12:59:14,031: INFO: on: Application startup complete.]
+[2024-12-06 12:59:41,823: INFO: server: Shutting down]
+[2024-12-06 12:59:41,936: INFO: on: Waiting for application shutdown.]
+[2024-12-06 12:59:41,939: INFO: on: Application shutdown complete.]
+[2024-12-06 12:59:41,942: INFO: server: Finished server process [60016]]
+[2024-12-06 13:03:57,254: INFO: server: Started server process [51888]]
+[2024-12-06 13:03:57,257: INFO: on: Waiting for application startup.]
+[2024-12-06 13:03:57,260: INFO: on: Application startup complete.]
+[2024-12-06 13:03:57,262: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2024-12-06 13:05:42,412: INFO: server: Shutting down]
+[2024-12-06 13:05:42,520: INFO: server: Finished server process [51888]]
+[2024-12-06 13:05:42,528: ERROR: on: Traceback (most recent call last):
+  File "C:\Users\Priya\OneDrive\Desktop\MProject\python\venv\Lib\site-packages\starlette\routing.py", line 638, in lifespan
+    await receive()
+  File "C:\Users\Priya\OneDrive\Desktop\MProject\python\venv\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\asyncio\queues.py", line 158, in get
+    await getter
+asyncio.exceptions.CancelledError
+]
