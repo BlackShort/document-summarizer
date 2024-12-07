@@ -3,7 +3,6 @@ import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { JSX, SVGProps } from "react"
 import Image from "next/image"
-import logo from "@/assets/icon.png"
 import img1 from "@/assets/img1.jpeg"
 import img2 from "@/assets/img2.jpeg"
 import img3 from "@/assets/img3.jpeg"
@@ -156,14 +155,14 @@ export function Home() {
                     <h3 className="text-xl font-bold">Michael Johnson</h3>
                     <p className="text-muted-foreground">
                       "As a busy professional, I rely on Summarizer to keep me informed on the latest industry trends and
-                      developments. It\'s an essential tool in my workflow."
+                      developments. It&apos;s an essential tool in my workflow."
                     </p>
                   </div>
                   <div className="grid gap-2">
                     <h3 className="text-xl font-bold">Emily Nguyen</h3>
                     <p className="text-muted-foreground">
-                      "I\'m impressed by the level of detail and accuracy in the Summarizer summaries. It\'s helped me stay
-                      on top of my coursework and research projects."
+                      &quot;I&apos;m impressed by the level of detail and accuracy in the Summarizer summaries. It&apos;s helped me stay
+                      on top of my coursework and research projects.&quot;
                     </p>
                   </div>
                 </div>
